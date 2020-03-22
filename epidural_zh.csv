@@ -31,7 +31,7 @@ ID,Doctor,kg,cm,Ease,Treatment,OC,Complications
 30,Dr. B,76,165,Difficult,Traditional Sitting,0,Wet Tap
 31,Dr. D,82,173,Easy,Hamstring Stretch,0,None
 32,Dr. C,59,168,Easy,Traditional Sitting,0,None
-33,Dr. C,75,173,Easy,Traditional Sitting,NA,Failure - person got dizzy
+33,Dr. C,75,173,Easy,Traditional Sitting,2,Failure - person got dizzy
 34,Dr. A,61,163,Easy,Traditional Sitting,1,None
 35,Dr. A,106,165,Easy,Traditional Sitting,2,None
 36,Dr. A,81,163,Easy,Traditional Sitting,1,None
