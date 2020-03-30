@@ -1,0 +1,16 @@
+Csop,Kalap,Szemszín,Ló,Szakall,Apa_fegyver,Szakadek,Kep,Zsebora,Foglalkozas,"Kérlek add meg a Neptun kódodat! Ezt később az egyéni válaszaiddal nem fogjuk összekötni, csupán az ellenőrizhetőséget szolgálja."
+a,Igen,Barna,2,IGAZ,puska volt,Tengerpart,"Anya, apa",Arany,Sheriff,CCY1L9
+a,Nem,Barna,1,HAMIS,puska volt,Sziklák,"Anya, apa",Arany,Sheriff,B1WDJZ
+a,Nem,Kék,2,IGAZ,puska volt,Tengerpart,"Anya, apa",Arany,Sheriff,XA4IEU
+a,Igen,Barna,2,IGAZ,puska volt,Füves puszta,"Anya, apa, gyerek",Arany,Sheriff,A4DHHN
+a,Nem,Barna,2,IGAZ,puska volt,Sziklák,"Anya, apa, gyerek",Arany,Sheriff,GGXHUY
+a,Igen,Barna,2,IGAZ,puska volt,Sziklák,"Anya, apa, gyerek",Arany,Sheriff,Z4JOYL
+a,Igen,Barna,2,HAMIS,puska volt,Sziklák,"Anya, apa",Arany,Sheriff,"UKNPH"""
+b,,,,,,,,,,
+b,Igen,Barna,2,IGAZ,puska volt,Sziklák,"Anya, apa, gyerek",Réz,Sheriff,AAYLE8
+b,Nem,Kék,2,IGAZ,puska volt,Tengerpart,"Anya, apa",Arany,Sheriff,I0JJ72
+b,Igen,Barna,1,HAMIS,puska volt,Tengerpart,"Anya, apa, gyerek",Arany,Sheriff,YF1XDU
+b,Nem,Barna,2,IGAZ,puska volt,Tengerpart,"Anya, apa, gyerek",Arany,Sheriff,E1NYAG
+b,Nem,Barna,2,IGAZ,puska volt,Tengerpart,"Anya, apa, gyerek",Arany,Sheriff,B3YHET
+b,Nem,Kék,2,HAMIS,puska volt,Sziklák,"Anya, apa, gyerek",Arany,Sheriff,OW9O7M
+b,Nem,Zöld,2,IGAZ,puska volt,Füves puszta,"Anya, apa, gyerek",Réz,Sheriff,HKDTQL
