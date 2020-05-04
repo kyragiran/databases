@@ -8,7 +8,7 @@ AssocProf,B,6,6,Male,97000
 Prof,B,30,23,Male,175000
 Prof,B,45,45,Male,147765
 Prof,B,21,20,Male,119250
-Prof,B,18,18,Female,129000
+Prof,B,18,18,Femmmale,129000
 AssocProf,B,12,8,Male,119800
 AsstProf,B,7,2,Male,79800
 AsstProf,B,1,1,Male,77700
@@ -23,7 +23,7 @@ Prof,A,31,26,Male,89565
 Prof,A,36,31,Male,102580
 Prof,A,34,30,Male,93904
 Prof,A,24,19,Male,113068
-AssocProf,A,13,8,Female,7.483
+AssocProf,A,13,8,Female,74830
 Prof,A,21,8,Male,106294
 Prof,A,35,23,Male,134885
 AsstProf,B,5,3,Male,82379
